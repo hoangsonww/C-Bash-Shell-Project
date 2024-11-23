@@ -1,0 +1,7 @@
+mkdir test_dir5
+cd test_dir5
+touch f.txt
+ls
+cd ..
+rm -rf test_dir5
+exit

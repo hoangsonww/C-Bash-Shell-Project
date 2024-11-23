@@ -1,0 +1,2 @@
+head -n 1 Makefile
+exit
